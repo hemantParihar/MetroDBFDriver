@@ -3,6 +3,7 @@ build/
 bin/
 out/
 target/
+
 *.class
 dbf-jdbc-driver-*.jar
 
@@ -24,3 +25,11 @@ Thumbs.db
 # Jekyll (GitHub Pages) local build
 docs/_site/
 docs/.jekyll-cache/
+
+#other
+_tests_recovered/
+src (2).zip
+src (3).zip
+src.zip
+_srcfiles.txt
+_testfiles.txt
