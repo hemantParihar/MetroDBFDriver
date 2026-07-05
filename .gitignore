@@ -1,0 +1,26 @@
+# Build output
+build/
+bin/
+out/
+target/
+*.class
+dbf-jdbc-driver-*.jar
+
+# Index lock files created by the driver at runtime
+*.lck
+
+# Eclipse / IDE
+.metadata/
+.settings/
+.project
+.classpath
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jekyll (GitHub Pages) local build
+docs/_site/
+docs/.jekyll-cache/

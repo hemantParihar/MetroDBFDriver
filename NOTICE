@@ -1,0 +1,10 @@
+DBF-JDBC-Driver
+Copyright 2026 The DBF-JDBC-Driver authors
+
+This product includes software developed as a pure-Java JDBC driver for
+DBF (dBASE / FoxPro / Clipper xBase) database files.
+
+Portions of the xBase / Clipper binary format knowledge — version constants,
+memo (.DBT/.FPT) block handling, and index/header layout facts — were derived
+from the DANS dbf-lib project (https://github.com/DANS-KNAW/dans-dbf-lib),
+which is licensed under the Apache License, Version 2.0.
